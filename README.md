@@ -24,7 +24,7 @@ Implement due dates and late fee calculations.
 🛠️ Technologies UsedJava (Core Programming Language)
 Object-Oriented Programming (OOP) Principles
 🔧 Installation & SetupClone the Repository:
-git clone [Library Management System](https://github.com/Developer-Waqas/Library-Management-System).gitOpen in an IDE:
+git clone [Library Management System](https://github.com/Developer-Waqas/Java-Library-Management-System).gitOpen in an IDE:
 Use Eclipse, IntelliJ IDEA, or VS Code.
 Ensure JDK 8 or later is installed.
 Compile & Run the Program:
